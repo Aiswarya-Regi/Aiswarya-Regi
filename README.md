@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/aiswaryaregi01" target="blank"><img src="https://img.shields.io/twitter/follow/aiswaryaregi01?logo=twitter&style=for-the-badge" alt="aiswaryaregi01" /></a> </p>
 
-- 🔭 I’m currently working on **TCS**
+- 🔭 I’m currently working at **TCS**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
