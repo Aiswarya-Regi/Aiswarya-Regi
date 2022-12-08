@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Aiswarya Regi
-🔭 I’m currently working at TCS<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about HTML, Github<br>📫 How to reach me aiswaryaregi69@gmail.com
+🔭 I’m currently working at TCS<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about HTML,CSS,JAVASCRIPT,GITHUB<br>📫 How to reach me aiswaryaregi69@gmail.com
 
 
 ## 🌐 Socials:
